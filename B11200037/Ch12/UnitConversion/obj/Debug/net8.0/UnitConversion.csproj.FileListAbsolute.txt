@@ -1,0 +1,14 @@
+E:\VisualStudio\C#\Ch12\UnitConversion\bin\Debug\net8.0\UnitConversion.exe
+E:\VisualStudio\C#\Ch12\UnitConversion\bin\Debug\net8.0\UnitConversion.deps.json
+E:\VisualStudio\C#\Ch12\UnitConversion\bin\Debug\net8.0\UnitConversion.runtimeconfig.json
+E:\VisualStudio\C#\Ch12\UnitConversion\bin\Debug\net8.0\UnitConversion.dll
+E:\VisualStudio\C#\Ch12\UnitConversion\bin\Debug\net8.0\UnitConversion.pdb
+E:\VisualStudio\C#\Ch12\UnitConversion\obj\Debug\net8.0\UnitConversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\C#\Ch12\UnitConversion\obj\Debug\net8.0\UnitConversion.AssemblyInfoInputs.cache
+E:\VisualStudio\C#\Ch12\UnitConversion\obj\Debug\net8.0\UnitConversion.AssemblyInfo.cs
+E:\VisualStudio\C#\Ch12\UnitConversion\obj\Debug\net8.0\UnitConversion.csproj.CoreCompileInputs.cache
+E:\VisualStudio\C#\Ch12\UnitConversion\obj\Debug\net8.0\UnitConversion.dll
+E:\VisualStudio\C#\Ch12\UnitConversion\obj\Debug\net8.0\refint\UnitConversion.dll
+E:\VisualStudio\C#\Ch12\UnitConversion\obj\Debug\net8.0\UnitConversion.pdb
+E:\VisualStudio\C#\Ch12\UnitConversion\obj\Debug\net8.0\UnitConversion.genruntimeconfig.cache
+E:\VisualStudio\C#\Ch12\UnitConversion\obj\Debug\net8.0\ref\UnitConversion.dll
