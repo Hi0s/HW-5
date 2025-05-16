@@ -1,0 +1,10 @@
+E:\VisualStudio\C#\Ch13\TrafficLight\bin\Debug\TrafficLight.exe.config
+E:\VisualStudio\C#\Ch13\TrafficLight\bin\Debug\TrafficLight.exe
+E:\VisualStudio\C#\Ch13\TrafficLight\bin\Debug\TrafficLight.pdb
+E:\VisualStudio\C#\Ch13\TrafficLight\obj\Debug\TrafficLight.csproj.AssemblyReference.cache
+E:\VisualStudio\C#\Ch13\TrafficLight\obj\Debug\TrafficLight.Form1.resources
+E:\VisualStudio\C#\Ch13\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+E:\VisualStudio\C#\Ch13\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.cache
+E:\VisualStudio\C#\Ch13\TrafficLight\obj\Debug\TrafficLight.csproj.CoreCompileInputs.cache
+E:\VisualStudio\C#\Ch13\TrafficLight\obj\Debug\TrafficLight.exe
+E:\VisualStudio\C#\Ch13\TrafficLight\obj\Debug\TrafficLight.pdb
