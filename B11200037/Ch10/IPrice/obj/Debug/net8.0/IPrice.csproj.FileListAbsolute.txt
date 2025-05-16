@@ -1,0 +1,14 @@
+E:\VisualStudio\C#\Ch10\IPrice\obj\Debug\net8.0\IPrice.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\C#\Ch10\IPrice\obj\Debug\net8.0\IPrice.AssemblyInfoInputs.cache
+E:\VisualStudio\C#\Ch10\IPrice\obj\Debug\net8.0\IPrice.AssemblyInfo.cs
+E:\VisualStudio\C#\Ch10\IPrice\obj\Debug\net8.0\IPrice.csproj.CoreCompileInputs.cache
+E:\VisualStudio\C#\Ch10\IPrice\bin\Debug\net8.0\IPrice.exe
+E:\VisualStudio\C#\Ch10\IPrice\bin\Debug\net8.0\IPrice.deps.json
+E:\VisualStudio\C#\Ch10\IPrice\bin\Debug\net8.0\IPrice.runtimeconfig.json
+E:\VisualStudio\C#\Ch10\IPrice\bin\Debug\net8.0\IPrice.dll
+E:\VisualStudio\C#\Ch10\IPrice\bin\Debug\net8.0\IPrice.pdb
+E:\VisualStudio\C#\Ch10\IPrice\obj\Debug\net8.0\IPrice.dll
+E:\VisualStudio\C#\Ch10\IPrice\obj\Debug\net8.0\refint\IPrice.dll
+E:\VisualStudio\C#\Ch10\IPrice\obj\Debug\net8.0\IPrice.pdb
+E:\VisualStudio\C#\Ch10\IPrice\obj\Debug\net8.0\IPrice.genruntimeconfig.cache
+E:\VisualStudio\C#\Ch10\IPrice\obj\Debug\net8.0\ref\IPrice.dll
