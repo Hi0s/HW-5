@@ -1,0 +1,14 @@
+E:\VisualStudio\C#\Ch11\Cube\obj\Debug\net8.0\Cube.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\C#\Ch11\Cube\obj\Debug\net8.0\Cube.AssemblyInfoInputs.cache
+E:\VisualStudio\C#\Ch11\Cube\obj\Debug\net8.0\Cube.AssemblyInfo.cs
+E:\VisualStudio\C#\Ch11\Cube\obj\Debug\net8.0\Cube.csproj.CoreCompileInputs.cache
+E:\VisualStudio\C#\Ch11\Cube\bin\Debug\net8.0\Cube.exe
+E:\VisualStudio\C#\Ch11\Cube\bin\Debug\net8.0\Cube.deps.json
+E:\VisualStudio\C#\Ch11\Cube\bin\Debug\net8.0\Cube.runtimeconfig.json
+E:\VisualStudio\C#\Ch11\Cube\bin\Debug\net8.0\Cube.dll
+E:\VisualStudio\C#\Ch11\Cube\bin\Debug\net8.0\Cube.pdb
+E:\VisualStudio\C#\Ch11\Cube\obj\Debug\net8.0\Cube.dll
+E:\VisualStudio\C#\Ch11\Cube\obj\Debug\net8.0\refint\Cube.dll
+E:\VisualStudio\C#\Ch11\Cube\obj\Debug\net8.0\Cube.pdb
+E:\VisualStudio\C#\Ch11\Cube\obj\Debug\net8.0\Cube.genruntimeconfig.cache
+E:\VisualStudio\C#\Ch11\Cube\obj\Debug\net8.0\ref\Cube.dll
